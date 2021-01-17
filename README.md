@@ -12,5 +12,5 @@
   R.A.S
 
 ## Auteur
-  Yann THO
+  Yann THO et
   Maxime HAVGOUDOUKIAN
