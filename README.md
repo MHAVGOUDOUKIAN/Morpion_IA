@@ -9,7 +9,6 @@
   En 3*3 l'IA est fonctionnelle.
 
 ## Mode 2 JOUEURS
-  R.A.S
 
 ## Auteur
   Yann THO et
