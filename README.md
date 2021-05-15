@@ -13,5 +13,3 @@
 ## Auteur
   Yann THO et
   Maxime HAVGOUDOUKIAN
-
-### Status du projet - Terminé
